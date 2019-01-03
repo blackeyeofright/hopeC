@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main(){
+  void starline();
+  starline();
+  printf("this is my first program! by the way.say hellow world!\n");
+  starline();
+  
+}
+
+void starline(){
+  printf("****************************\n");
+}
